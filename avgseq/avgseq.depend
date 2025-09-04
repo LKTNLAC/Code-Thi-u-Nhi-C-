@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1594455907 source:c:\excute and data\c++\avgseq\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

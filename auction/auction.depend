@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1593848511 source:c:\excute and data\c++\auction\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1593848511 source:c:\excute and data\c++\auction\auction.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

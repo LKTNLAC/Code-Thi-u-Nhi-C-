@@ -1,0 +1,6 @@
+int ans = 0, l = 0, r = arr.size() - 1;
+    while(l < r){
+    	if(arr[l] + arr[r] == x) ++ans;
+		if(arr[l] + arr[r] < x) ++l;
+        else --r;
+    }
