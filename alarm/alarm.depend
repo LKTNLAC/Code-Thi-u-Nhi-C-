@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1588411700 source:c:\excute and data\c++\alarm\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1589010875 source:c:\excute and data\c++\alarm\alarm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

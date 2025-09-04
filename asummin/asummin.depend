@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1595062575 source:c:\excute and data\c++\asummin\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1596270387 source:c:\excute and data\c++\asummin\asummin.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+	<fstream>
+
