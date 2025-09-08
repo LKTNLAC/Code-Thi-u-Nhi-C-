@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1629545528 source:c:\excute and data\c++\beauty2\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+
+1629546781 source:c:\excute and data\c++\beauty2\beauty2.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+

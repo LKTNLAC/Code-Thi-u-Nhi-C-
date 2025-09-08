@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602934211 source:c:\excute and data\c++\brackets\brackets.cpp
+	<cstdio>
+	<stack>
+	<cstring>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1646748830 source:c:\excute and data\c++\binary vnoi\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<bits/stdc++.h>
+

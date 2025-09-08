@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604749642 source:c:\excute and data\c++\brackets 2\main.cpp
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1604754609 source:c:\excute and data\c++\brackets 2\brackets.cpp
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

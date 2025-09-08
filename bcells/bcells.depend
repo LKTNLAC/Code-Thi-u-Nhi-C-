@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608452377 source:c:\excute and data\c++\bcells\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+
+1608452911 source:c:\excute and data\c++\bcells\bcells.cpp
+	<bits/stdc++.h>
+	<string.h>
+

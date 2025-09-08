@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590227595 source:c:\excute and data\c++\bnums\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1592037985 source:c:\excute and data\c++\bnums\bnums.cpp
+	<iostream>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1589614185 source:c:\excute and data\c++\bisearch\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1589614615 source:c:\excute and data\c++\bisearch\bisearch.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
