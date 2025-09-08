@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1594457126 source:c:\excute and data\c++\balloons\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615818858 source:c:\excute and data\c++\bai1\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+

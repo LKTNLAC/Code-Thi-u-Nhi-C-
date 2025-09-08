@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569655037 source:c:\excute and data\c++\bai_19\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
+1569655185 source:c:\excute and data\c++\baitapcoban\bai_19\19.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
