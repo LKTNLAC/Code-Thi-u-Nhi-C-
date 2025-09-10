@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1594459525 source:c:\excute and data\c++\calendar\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1594460441 source:c:\excute and data\c++\calendar\calendar.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

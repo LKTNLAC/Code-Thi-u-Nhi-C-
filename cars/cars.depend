@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631361780 source:c:\excute and data\c++\cars\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<bits/stdc++.h>
+
+1631970291 source:c:\excute and data\c++\cars\cars.cpp
+	<bits/stdc++.h>
+

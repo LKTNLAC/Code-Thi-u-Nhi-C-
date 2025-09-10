@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617449841 source:c:\excute and data\c++\candy\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1622901417 source:c:\excute and data\c++\choco\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+
+1622901778 source:c:\excute and data\c++\choco\choco.cpp
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<iostream>
+
