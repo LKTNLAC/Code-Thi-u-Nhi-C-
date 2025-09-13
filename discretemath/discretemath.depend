@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1687885317 source:d:\file\c++\discretemath\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<climits>
+	<bits/stdc++.h>
+
