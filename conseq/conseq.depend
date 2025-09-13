@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1607176371 source:c:\excute and data\c++\conseq\main.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1607239493 source:c:\excute and data\c++\conseq\conseq.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

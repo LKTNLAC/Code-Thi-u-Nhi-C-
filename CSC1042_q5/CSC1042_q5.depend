@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1688300954 source:d:\file\c++\csc1042_q5\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<climits>
+	<bits/stdc++.h>
+

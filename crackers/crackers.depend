@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603610456 source:c:\excute and data\c++\crackers\main.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1604132247 source:c:\excute and data\c++\crackers\crackers.cpp
+	<cmath>
+	<stdio.h>
+	<iostream>
+	<algorithm>
+

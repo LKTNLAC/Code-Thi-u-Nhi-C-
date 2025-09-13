@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1583573714 source:c:\excute and data\c++\coins\main.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
