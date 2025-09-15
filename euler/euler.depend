@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1662206828 source:d:\file\c++\euler\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stack>
+	<vector>
+	<list>
+	<algorithm>
+
+1662206800 source:d:\file\c++\euler\euler.cpp
+	<bits/stdc++.h>
+

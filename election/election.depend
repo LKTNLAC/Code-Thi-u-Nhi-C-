@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607243492 source:c:\excute and data\c++\election\main.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

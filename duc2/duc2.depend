@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662730997 source:d:\file\c++\duc2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1595058889 source:c:\excute and data\c++\equation\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1595060292 source:c:\excute and data\c++\equation\equation.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
