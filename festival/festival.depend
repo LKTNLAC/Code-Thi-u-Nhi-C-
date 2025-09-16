@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610267311 source:c:\excute and data\c++\festival\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+
+1611401721 source:c:\excute and data\c++\festival\festival.cpp
+	<math.h>
+	<bits/stdc++.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607772297 source:c:\excute and data\c++\friends\main.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1607848087 source:c:\excute and data\c++\friends\friends.cpp
+	<bits/stdc++.h>
+

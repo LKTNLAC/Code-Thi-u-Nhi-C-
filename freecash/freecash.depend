@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1595056912 source:c:\excute and data\c++\freecash\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1595056912 source:c:\excute and data\c++\freecash\freecash.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

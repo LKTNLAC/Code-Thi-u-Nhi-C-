@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582966810 source:c:\excute and data\c++\friend\main.cpp
+	<iomanip>
+	<string.h>
+	<fstream>
+
