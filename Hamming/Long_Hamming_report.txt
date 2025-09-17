@@ -1,0 +1,27 @@
+■ long_bh: 
+● Hamming: 20.00
+Hamming.cpp
+Dịch thành công
+◆ Test00: 10.00
+Thời gian ≈ 0.159556200 giây
+Kết quả khớp đáp án!
+◆ Test01: 0.00
+Chạy quá thời gian
+◆ Test02: 0.00
+Thời gian ≈ 0.157751500 giây
+Kết quả KHÁC đáp án!
+◆ Test03: 0.00
+Chạy quá thời gian
+◆ Test04: 10.00
+Thời gian ≈ 0.160440000 giây
+Kết quả khớp đáp án!
+◆ Test05: 0.00
+Chạy quá thời gian
+◆ Test06: 0.00
+Chạy quá thời gian
+◆ Test07: 0.00
+Chạy quá thời gian
+◆ Test08: 0.00
+Chạy quá thời gian
+◆ Test09: 0.00
+Chạy quá thời gian

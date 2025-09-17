@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616313640 source:c:\excute and data\c++\hoanvi\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+

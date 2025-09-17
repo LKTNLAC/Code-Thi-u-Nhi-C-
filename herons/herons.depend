@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1604135832 source:c:\excute and data\c++\herons\main.cpp
+	<iomanip>
+	<string.h>
+	<fstream>
+
+1604135887 source:c:\excute and data\c++\herons\herons.cpp
+	<iomanip>
+	<string.h>
+	<fstream>
+

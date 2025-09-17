@@ -1,0 +1,47 @@
+
+Đăng và Nhật đang chơi nhảy lò cò ăn kẹo. Trò chơi được mô tả như sau:
+
+Đăng vẽ ra trên nền nhà n (1≤n≤105) ô vuông và nối một số ô lại với nhau với n−1 đường nối. Các ô vuông tạo thành một đồ thị vô hướng có dạng cây với đỉnh gốc là s. Một người đứng ở một ô vuông bất kỳ có thể nhảy từ ô này sang ô khác nếu như ô nhảy đến được kết nối với ô người đó đang đứng. Ở mỗi ô vuông, Đăng rải một số lượng kẹo nhất định. Tại ô thứ i có chứa ki viên kẹo. Đăng đố Nhật nhảy lò cò qua các ô để lấy được số lượng kẹo là nhiều nhất.
+
+Trò chơi bắt đầu bằng việc Nhật xuất phát ở đỉnh gốc s. Khi Nhật nhảy sang một ô mới, Nhật lấy đi đúng một viên kẹo tại ô mới đến (không được phép không lấy hay lấy nhiều hơn 1). Nhật có thể di chuyển qua một ô nhiều lần. Tuy nhiên, Nhật không được phép nhảy đến một ô đã hết kẹo, và Nhật bắt buộc phải quay trở lại ô xuất phát ở đỉnh s để kết thúc trò chơi.
+Các bạn hãy giúp Nhật tìm số lượng kẹo nhiều nhất Nhật có thể nhặt được.
+
+Yêu cầu: Hãy viết chương trình tìm số lượng kẹo nhiều nhất Nhật có thể nhặt được.
+
+Input
+Nhập từ bàn phím gồm:
+
+Dòng đầu tiên chứa số nguyên dương n (1≤n≤105)
+Dòng thứ 2 chứa n số nguyên dương k1,k2,…,kn (1≤ki≤105), với ki là số lượng kẹo tại ô thứ i.
+n−1 dòng tiếp theo, mỗi dòng chứa 2 số nguyên u và v cho biết ô thứ u được nối với ô thứ v.
+Dòng cuối cùng chứa đỉnh xuất phát s (1≤s≤n).
+
+input 1
+6
+2 1 3 5 4 6
+1 2
+1 3
+1 4
+4 5
+4 6
+1
+
+output 1
+12
+
+input 2
+10
+6 4 4 1 3 2 3 7 5 1
+1 2
+1 5
+1 10
+2 3
+2 6
+3 7
+3 8
+4 5
+6 9
+1
+
+output 2
+24

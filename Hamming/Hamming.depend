@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1624104970 source:c:\excute and data\c++\hamming\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+
+1625497558 source:c:\excute and data\c++\hamming\hamming.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<bits/stdc++.h>
+

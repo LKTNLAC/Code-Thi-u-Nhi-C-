@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582965586 source:c:\excute and data\c++\happynum\main.cpp
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
