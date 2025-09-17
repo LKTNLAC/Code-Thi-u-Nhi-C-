@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608457158 source:c:\excute and data\c++\function\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+
+1608458289 source:c:\excute and data\c++\function\function.cpp
+	<bits/stdc++.h>
+	<string.h>
+

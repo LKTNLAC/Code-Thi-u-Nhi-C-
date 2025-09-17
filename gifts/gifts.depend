@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607244588 source:c:\excute and data\c++\gifts\main.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

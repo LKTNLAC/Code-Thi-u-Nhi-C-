@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607850846 source:c:\excute and data\c++\gen\main.cpp
+	<bits/stdc++.h>
+
+1608451188 source:c:\excute and data\c++\gen\gen.cpp
+	<bits/stdc++.h>
+	<string.h>
+
