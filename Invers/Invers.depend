@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1628337901 source:c:\excute and data\c++\invers\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+
+1628341766 source:c:\excute and data\c++\invers\invers.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+

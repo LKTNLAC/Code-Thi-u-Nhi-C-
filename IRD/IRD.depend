@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601795514 source:c:\excute and data\c++\ird\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<fstream>
+
+1601796090 source:c:\excute and data\c++\ird\ird.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<fstream>
+
