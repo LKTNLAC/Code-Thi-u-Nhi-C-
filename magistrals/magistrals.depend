@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1612082589 source:c:\excute and data\c++\magistrals\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+
+1612086129 source:c:\excute and data\c++\magistrals\magistrals.cpp
+	<math.h>
+	<bits/stdc++.h>
+

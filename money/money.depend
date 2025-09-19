@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611404567 source:c:\excute and data\c++\money\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+
+1611477705 source:c:\excute and data\c++\money\money.cpp
+	<math.h>
+	<bits/stdc++.h>
+

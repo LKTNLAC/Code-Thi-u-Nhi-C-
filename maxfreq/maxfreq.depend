@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605967144 source:c:\excute and data\c++\maxfreq\main.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1606029510 source:c:\excute and data\c++\maxfreq\maxfreq.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

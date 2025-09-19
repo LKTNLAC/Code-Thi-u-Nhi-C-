@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1628941076 source:c:\excute and data\c++\modm\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+
+1628942434 source:c:\excute and data\c++\modm\modm.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+

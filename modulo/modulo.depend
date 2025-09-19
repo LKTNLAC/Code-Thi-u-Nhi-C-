@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1614423894 source:c:\excute and data\c++\modulo\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+
+1614427789 source:c:\excute and data\c++\modulo\modulo.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+

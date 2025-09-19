@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623500208 source:c:\excute and data\c++\melons\melons.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+
