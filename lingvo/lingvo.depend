@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609589262 source:c:\excute and data\c++\lingvo\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+
+1609659390 source:c:\excute and data\c++\lingvo\lingvo.cpp
+	<math.h>
+	<bits/stdc++.h>
+

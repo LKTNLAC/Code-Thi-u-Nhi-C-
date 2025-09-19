@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608991269 source:c:\excute and data\c++\led\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+

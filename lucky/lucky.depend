@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610197702 source:c:\excute and data\c++\lucky\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+
+1610199962 source:c:\excute and data\c++\lucky\lucky.cpp
+	<math.h>
+	<bits/stdc++.h>
+

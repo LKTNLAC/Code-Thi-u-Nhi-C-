@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609664930 source:c:\excute and data\c++\lock\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+
+1610192048 source:c:\excute and data\c++\lock\lock.cpp
+	<math.h>
+	<bits/stdc++.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618125361 source:c:\excute and data\c++\lis\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
+1618127371 source:c:\excute and data\c++\lis\lis.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
