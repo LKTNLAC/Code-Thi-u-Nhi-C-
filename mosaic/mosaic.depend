@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590224777 source:c:\excute and data\c++\mosaic\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
