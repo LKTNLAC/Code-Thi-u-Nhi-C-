@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605355406 source:c:\excute and data\c++\numpos\main.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+
+1605357053 source:c:\excute and data\c++\numpos\numpos.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+

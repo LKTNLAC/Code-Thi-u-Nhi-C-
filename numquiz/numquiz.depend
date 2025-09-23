@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1593856672 source:c:\excute and data\c++\numquiz\numquiz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

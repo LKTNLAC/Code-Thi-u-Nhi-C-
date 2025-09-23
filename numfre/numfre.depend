@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1604823723 source:c:\excute and data\c++\numfre\main.cpp
+	<iomanip>
+	<math.h>
+	<cmath>
+	<string.h>
+	<fstream>
+
+1605354312 source:c:\excute and data\c++\numfre\numfre.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+
