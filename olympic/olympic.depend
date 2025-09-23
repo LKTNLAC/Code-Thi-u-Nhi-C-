@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603007640 source:c:\excute and data\c++\olympic\main.cpp
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

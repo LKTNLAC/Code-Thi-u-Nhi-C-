@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1630755408 source:c:\excute and data\c++\oaks\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<bits/stdc++.h>
+

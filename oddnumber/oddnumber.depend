@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605358499 source:c:\excute and data\c++\oddnumber\main.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+
+1605358958 source:c:\excute and data\c++\oddnumber\oddnumber.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+
