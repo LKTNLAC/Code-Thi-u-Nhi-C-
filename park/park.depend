@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605426801 source:c:\excute and data\c++\park\park.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+

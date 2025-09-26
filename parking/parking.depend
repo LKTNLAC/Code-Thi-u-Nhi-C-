@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605427851 source:c:\excute and data\c++\parking\main.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+

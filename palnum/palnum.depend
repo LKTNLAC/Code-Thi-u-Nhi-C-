@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605360315 source:c:\excute and data\c++\palnum\main.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+
+1605362087 source:c:\excute and data\c++\palnum\palnum.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+

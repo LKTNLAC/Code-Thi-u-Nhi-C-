@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582365363 source:c:\excute and data\c++\palind\main.cpp
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1582365363 source:c:\excute and data\c++\palind\palind.cpp
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
