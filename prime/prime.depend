@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582967492 source:c:\excute and data\c++\prime\main.cpp
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

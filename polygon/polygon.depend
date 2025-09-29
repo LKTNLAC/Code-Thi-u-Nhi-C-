@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589620950 source:c:\excute and data\c++\polygon\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1590222294 source:c:\excute and data\c++\polygon\polygon.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+	<windows.h>
+
