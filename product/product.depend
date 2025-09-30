@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1628335227 source:c:\excute and data\c++\product\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+
+1628335341 source:c:\excute and data\c++\product\product.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+

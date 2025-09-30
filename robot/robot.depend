@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605430357 source:c:\excute and data\c++\robot\main.cpp
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<fstream>
+

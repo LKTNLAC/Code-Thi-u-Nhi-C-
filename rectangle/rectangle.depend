@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617448059 source:c:\excute and data\c++\rectangle\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
