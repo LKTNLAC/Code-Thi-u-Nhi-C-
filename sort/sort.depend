@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1588406154 source:c:\excute and data\c++\sort\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1588409487 source:c:\excute and data\c++\sort\sort.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
