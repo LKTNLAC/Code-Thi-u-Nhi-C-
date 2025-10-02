@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604221954 source:c:\excute and data\c++\satell\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

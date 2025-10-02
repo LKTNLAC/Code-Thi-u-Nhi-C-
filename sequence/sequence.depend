@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613821703 source:c:\excute and data\c++\sequence\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+
+1613898863 source:c:\excute and data\c++\sequence\sequence.cpp
+	<math.h>
+	<bits/stdc++.h>
+

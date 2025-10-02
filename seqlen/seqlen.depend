@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613817367 source:c:\excute and data\c++\seqlen\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+
