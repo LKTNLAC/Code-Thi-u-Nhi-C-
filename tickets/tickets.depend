@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614431308 source:c:\excute and data\c++\tickets\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+

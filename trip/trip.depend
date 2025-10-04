@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589015547 source:c:\excute and data\c++\trip\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1589613243 source:c:\excute and data\c++\trip\trip.cpp
+	<bits/stdc++.h>
+

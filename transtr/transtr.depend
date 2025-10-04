@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614498112 source:c:\excute and data\c++\transtr\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+

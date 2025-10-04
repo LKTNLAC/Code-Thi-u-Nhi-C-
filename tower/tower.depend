@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619944068 source:c:\excute and data\c++\tower\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
+1620549051 source:c:\excute and data\c++\tower\tower.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
