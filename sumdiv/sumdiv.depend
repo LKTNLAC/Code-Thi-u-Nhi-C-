@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604223639 source:c:\excute and data\c++\sumdiv\main.cpp
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+

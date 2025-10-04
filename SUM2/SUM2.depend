@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1630150747 source:c:\excute and data\c++\sum2\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+
+1630740501 source:c:\excute and data\c++\sum2\sum.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<bits/stdc++.h>
+

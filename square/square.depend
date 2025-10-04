@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616316867 source:c:\excute and data\c++\square\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
+1616319303 source:c:\excute and data\c++\square\square.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+

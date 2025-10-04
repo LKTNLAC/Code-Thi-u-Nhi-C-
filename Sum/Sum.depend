@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582363787 source:c:\excute and data\c++\sum\main.cpp
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
+1582363811 source:c:\excute and data\c++\sum\sum.cpp
+	<iomanip>
+	<math.h>
+	<string.h>
+	<fstream>
+
