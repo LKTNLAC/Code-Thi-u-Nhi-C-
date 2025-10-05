@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614498986 source:c:\excute and data\c++\twins\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619266894 source:c:\excute and data\c++\turtle\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
+1619270265 source:c:\excute and data\c++\turtle\turtle.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
