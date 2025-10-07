@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602942263 source:c:\excute and data\c++\words\words.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+	<fstream>
+	<iostream>
+

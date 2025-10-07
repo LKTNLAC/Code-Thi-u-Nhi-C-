@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614503580 source:c:\excute and data\c++\wires\main.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
+1615035015 source:c:\excute and data\c++\wires\wires.cpp
+	<math.h>
+	<bits/stdc++.h>
+	<string.h>
+
